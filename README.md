@@ -16,7 +16,7 @@ Chat em tempo real feito com Java + Spring Boot e WebSocket.
 ### Passos
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/chat.git
+git clone https://github.com/MariaCamilaGoncalves/ChatWebsocket.git
 cd chat
 ```
 2. Rode o projeto:
